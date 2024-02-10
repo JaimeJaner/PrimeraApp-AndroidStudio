@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <string name="btnIniciarSesion">Iniciar sesión</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>
